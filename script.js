@@ -18,23 +18,23 @@ const timelineItems = [
   {
     number: "03",
     meta: " ",
-    title: "Sus gustos tienen algo muy suyo",
-    text: "Este apartado sirve para hablar de por qué sus gustos te parecen especiales. Que le guste el mono dorado, por ejemplo, no se siente genérico: se siente curioso, bonito y con mucha personalidad. Aquí puedes desarrollar la idea de que no solo te gusta Zur por cómo se ve o por lo que dice, sino también por ese universo de detalles que la vuelven única y fácil de recordar incluso cuando no está presente.",
+    title: "tu musiquita y los valores que me has mostrado 🤓☝️",
+    text: "increible que tengamos un 96% en nuestro blend de spoti, eres la persona con la que más comparto gustos musicales, me gusta mucho que sea así y que seas tu esa persona 🙂‍↔️ Además, me gusta mucho que seas tan sensible y tu pasión por los animales y su bienestar. Por lo que he visto de ti, sé que amas mucho a tus seres queridos y lo demuestras de muchas formas, me gusta que seas así y que hagas piñatas de tesis 🙂‍↔️",
     image: "assets/golden-3.png",
     caption: "Otra imagen real para reforzar el motivo del mono dorado."
   },
   {
     number: "04",
-    meta: "cuarto momento · música",
-    title: "La música también me ayuda a entenderla",
+    meta: " ",
+    title: "me transmites mucha calma 😌",
     text: "Aquí puedes conectar sus artistas favoritos con la sensación general que te provoca. Rusowsky, Jesse Baez y aquihayaquihay tienen una vibra emocional, suave, moderna y a ratos nocturna. Puedes explicar que su gusto musical hace que Zur se sienta como alguien con una sensibilidad concreta, de esas personas que parecen venir ya acompañadas por un soundtrack. Este bloque funciona muy bien como antesala para el reproductor musical del final.",
     image: "assets/gelada-2.png",
     caption: "Imagen de apoyo para mantener la mezcla visual del fondo."
   },
   {
     number: "05",
-    meta: "quinto momento · conclusión",
-    title: "Al final no fue una sola cosa",
+    meta: " ",
+    title: "el silencio es tan cómodo contigo",
     text: "En el cierre puedes decir que no hubo un motivo único, sino una acumulación de detalles. Su estilo, sus gustos, su vibra, su manera de estar y la forma en la que todo eso fue dejando huella hicieron que gustarte se volviera algo natural. Este último texto puede sonar un poco más confesional, como si ya no estuvieras explicando una hipótesis, sino aceptando con calma una conclusión que llevaba tiempo formándose.",
     image: "assets/gelada-3.png",
     caption: "Cierre visual con otro retrato real."
