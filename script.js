@@ -21,21 +21,21 @@ const timelineItems = [
     title: "tu musiquita y los valores que me has mostrado 🤓☝️",
     text: "increible que tengamos un 96% en nuestro blend de spoti, eres la persona con la que más comparto gustos musicales, me gusta mucho que sea así y que seas tu esa persona 🙂‍↔️ Además, me gusta mucho que seas tan sensible y tu pasión por los animales y su bienestar. Por lo que he visto de ti, sé que amas mucho a tus seres queridos y lo demuestras de muchas formas, me gusta que seas así y que hagas piñatas de tesis 🙂‍↔️",
     image: "assets/golden-3.png",
-    caption: "Otra imagen real para reforzar el motivo del mono dorado."
+    caption: "ayayay"
   },
   {
     number: "04",
     meta: " ",
     title: "me transmites mucha calma 😌",
-    text: "Aquí puedes conectar sus artistas favoritos con la sensación general que te provoca. Rusowsky, Jesse Baez y aquihayaquihay tienen una vibra emocional, suave, moderna y a ratos nocturna. Puedes explicar que su gusto musical hace que Zur se sienta como alguien con una sensibilidad concreta, de esas personas que parecen venir ya acompañadas por un soundtrack. Este bloque funciona muy bien como antesala para el reproductor musical del final.",
+    text: "hay algo de ti que todavía no logro descifrar que me da tanta calma, tal vez es porque de verdad quisieras ser una piedra en marte y estar tranquila ahí sin que nadie te moleste JAJAJAJA, pero esa forma de ser tan tuya tal vez sea la causa de que me sienta esa calma al estar a tu lado o al pensarte todo el día. Me gusta ese sentimiento que generas en mí, le das paz y plenitud a mi alma, calmas 😌",
     image: "assets/gelada-2.png",
-    caption: "Imagen de apoyo para mantener la mezcla visual del fondo."
+    caption: "ola"
   },
   {
     number: "05",
     meta: " ",
     title: "el silencio es tan cómodo contigo",
-    text: "En el cierre puedes decir que no hubo un motivo único, sino una acumulación de detalles. Su estilo, sus gustos, su vibra, su manera de estar y la forma en la que todo eso fue dejando huella hicieron que gustarte se volviera algo natural. Este último texto puede sonar un poco más confesional, como si ya no estuvieras explicando una hipótesis, sino aceptando con calma una conclusión que llevaba tiempo formándose.",
+    text: "muchas veces solamente quiero estar en silencio y contigo es muy cómodo hacerlo, no se siente esa extraña incomodidad de querer sacar un tema de conversación, me gusta que no sienta ese sentimiento cuando estoy contigo 🙂‍↔️",
     image: "assets/gelada-3.png",
     caption: "Cierre visual con otro retrato real."
   }
