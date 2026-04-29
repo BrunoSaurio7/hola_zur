@@ -1,23 +1,23 @@
 const timelineItems = [
   {
     number: "01",
-    meta: "primer momento · inicio",
-    title: "Cuando empezó a llamar mi atención",
-    text: "Aquí va el primer párrafo. Puedes contar cómo fue que Zur empezó a gustarte desde algo pequeño: una forma de hablar, una manera de estar, una energía particular o una impresión inicial que se fue quedando contigo. La idea de este bloque es que parezca el arranque de una historia emocional, sencilla y honesta, sin exagerar demasiado, pero dejando claro que desde ahí algo empezó a moverse y ya no se fue.",
+    meta: " ",
+    title: "estás preciosa 😻",
+    text: "yo creo que hasta tú lo sabes pero wow, que hermosos ojos tienes, que bella carita toda chula, tus labios que al besarlos saben deliciosos ñam ñam ñam, tu piel tan suave fua, en fin, eres tan bella y preciosa que no me canso de verte y tocarte yyy lamerte cuando puedo",
     image: "assets/golden-2.png",
-    caption: "Detalle visual: un mono dorado real para acompañar el inicio."
+    caption: "yo creo que me gustas mas que a ti los monos dorados 🤓☝️"
   },
   {
     number: "02",
-    meta: "segundo momento · rojo",
-    title: "Lo rojo también empezó a recordármela",
-    text: "En este bloque puedes hablar de su color favorito y de cómo eso fue tomando sentido dentro de tu manera de verla. El rojo puede sentirse intenso, elegante, cálido y directo. Puedes escribir sobre ropa, luces, objetos, conversaciones o cualquier momento en el que ese color se volvió una especie de vínculo visual con Zur. La intención aquí es que la página se sienta coherente con sus gustos y con la estética general del proyecto.",
+    meta: " ",
+    title: "me gusta bailar contigo 🙂‍↔️",
+    text: "aunque me haya humillado bailando horriblemente JAJAJA la verdad es que amé bailar contigo en nuestra primera cita y más aún en el vive, pero sobre todo que quisieras bailar conmigo con Ruso de fondo pese a que sabías que bailaba dlv JAJAJAJA, por eso ya ando aprendiendo a bailar mejor, porque la vida es un baileee y el mundo es un salón y hay muchas parejas bailando a nuestro al rededor y entre toda esta genteee nos fuimos a encontraaar parecíamos predestinados para así bailaaaaaaar 🗣️",
     image: "assets/gelada-1.png",
-    caption: "Contraste visual con una imagen real de gelada."
+    caption: "ya hay que bailar de nuevo eh"
   },
   {
     number: "03",
-    meta: "tercer momento · gustos",
+    meta: " ",
     title: "Sus gustos tienen algo muy suyo",
     text: "Este apartado sirve para hablar de por qué sus gustos te parecen especiales. Que le guste el mono dorado, por ejemplo, no se siente genérico: se siente curioso, bonito y con mucha personalidad. Aquí puedes desarrollar la idea de que no solo te gusta Zur por cómo se ve o por lo que dice, sino también por ese universo de detalles que la vuelven única y fácil de recordar incluso cuando no está presente.",
     image: "assets/golden-3.png",
