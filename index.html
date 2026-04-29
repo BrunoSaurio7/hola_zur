@@ -11,14 +11,14 @@
 
   <style>
     :root{
-      --wine:#3b0b12;
-      --red:#8b1623;
-      --gold:#b88a3b;
-      --cream:#f5eee3;
-      --paper:#efe3d1;
-      --ink:#2a1816;
-      --line:rgba(59,11,18,.18);
-      --soft:rgba(59,11,18,.08);
+      --wine:#250308;
+      --red:#b91f35;
+      --gold:#d7a64a;
+      --cream:#fff0df;
+      --paper:#5f0c18;
+      --ink:#fff0df;
+      --line:rgba(255,240,223,.22);
+      --soft:rgba(255,240,223,.08);
     }
 
     *{box-sizing:border-box}
@@ -28,9 +28,10 @@
       font-family:"Inter",system-ui,sans-serif;
       color:var(--ink);
       background:
-        linear-gradient(rgba(245,238,227,.93), rgba(245,238,227,.93)),
-        radial-gradient(circle at top, rgba(184,138,59,.13), transparent 35%),
-        linear-gradient(180deg, #f8f2e8 0%, #efe3d1 100%);
+        radial-gradient(circle at 18% 8%, rgba(215,166,74,.24), transparent 32%),
+        radial-gradient(circle at 88% 22%, rgba(185,31,53,.42), transparent 34%),
+        radial-gradient(circle at 45% 90%, rgba(255,130,110,.16), transparent 35%),
+        linear-gradient(180deg, #4b0711 0%, #7b1221 46%, #31050b 100%);
       overflow-x:hidden;
     }
 
@@ -45,9 +46,9 @@
     .bg-collage img{
       position:absolute;
       width:min(24vw,240px);
-      opacity:.08;
-      filter:grayscale(.1) contrast(1.05);
-      mix-blend-mode:multiply;
+      opacity:.13;
+      filter:grayscale(.05) contrast(1.08) brightness(1.1);
+      mix-blend-mode:screen;
     }
 
     .bg-1{top:3%; left:2%;}
@@ -97,7 +98,7 @@
       font-size:clamp(3.9rem, 8vw, 7.6rem);
       line-height:.88;
       font-weight:600;
-      color:var(--wine);
+      color:var(--cream);
       letter-spacing:-.04em;
     }
 
@@ -111,7 +112,7 @@
       margin:0 0 24px;
       font-size:1.04rem;
       line-height:1.95;
-      color:#513230;
+      color:rgba(255,240,223,.82);
     }
 
     .hero-nav{
@@ -125,17 +126,17 @@
       align-items:center;
       justify-content:center;
       padding:12px 18px;
-      border:1px solid var(--red);
+      border:1px solid rgba(215,166,74,.78);
       text-decoration:none;
-      color:var(--red);
-      background:transparent;
+      color:var(--cream);
+      background:rgba(255,240,223,.05);
       font-weight:600;
       transition:.2s ease;
     }
 
     .button:hover{
-      background:var(--red);
-      color:var(--cream);
+      background:var(--gold);
+      color:var(--wine);
     }
 
     .hero-figure{
@@ -152,7 +153,7 @@
       width:min(100%, 420px);
       aspect-ratio:4/5;
       border:1px solid var(--line);
-      background:linear-gradient(180deg, rgba(184,138,59,.14), rgba(139,22,35,.08));
+      background:linear-gradient(180deg, rgba(215,166,74,.18), rgba(255,240,223,.06));
       transform:translate(18px, 18px);
     }
 
@@ -163,13 +164,13 @@
       object-fit:cover;
       border:1px solid var(--line);
       box-shadow:0 24px 60px rgba(59,11,18,.10);
-      background:#ddd;
+      background:rgba(255,240,223,.12);
     }
 
     .intro-note{
       padding:10px 0 38px;
       border-bottom:1px solid var(--line);
-      color:#654543;
+      color:rgba(255,240,223,.70);
       font-size:.95rem;
     }
 
@@ -188,7 +189,7 @@
       font-family:"Cormorant Garamond",serif;
       font-size:clamp(2.3rem, 4.5vw, 4rem);
       font-weight:600;
-      color:var(--wine);
+      color:var(--cream);
       letter-spacing:-.03em;
     }
 
@@ -232,7 +233,7 @@
       font-size:clamp(2rem, 4vw, 3.5rem);
       line-height:.95;
       font-weight:600;
-      color:var(--wine);
+      color:var(--cream);
       letter-spacing:-.03em;
     }
 
@@ -241,7 +242,7 @@
       max-width:760px;
       font-size:1.02rem;
       line-height:2.02;
-      color:#49302f;
+      color:rgba(255,240,223,.86);
     }
 
     .chapter figure{
@@ -256,14 +257,14 @@
       aspect-ratio:4/5;
       object-fit:cover;
       border:1px solid var(--line);
-      background:#ddd;
+      background:rgba(255,240,223,.12);
       box-shadow:0 14px 34px rgba(59,11,18,.08);
     }
 
     .chapter figure figcaption{
       font-size:.82rem;
       line-height:1.6;
-      color:#715250;
+      color:rgba(255,240,223,.62);
     }
 
     .music{
@@ -295,20 +296,20 @@
       font-size:clamp(2.4rem, 5vw, 4.3rem);
       line-height:.95;
       font-weight:600;
-      color:var(--wine);
+      color:var(--cream);
       letter-spacing:-.03em;
     }
 
     .music p{
       margin:0;
-      color:#513230;
+      color:rgba(255,240,223,.82);
       line-height:1.9;
     }
 
     .player-box{
       min-height:220px;
       border:1px solid var(--line);
-      background:rgba(255,255,255,.38);
+      background:rgba(255,240,223,.08);
       display:grid;
       place-items:center;
       padding:18px;
@@ -316,7 +317,7 @@
 
     .player-placeholder{
       text-align:center;
-      color:#5b3c39;
+      color:rgba(255,240,223,.78);
     }
 
     .play-button{
@@ -324,8 +325,8 @@
       height:74px;
       border-radius:50%;
       border:1px solid var(--red);
-      background:var(--red);
-      color:var(--cream);
+      background:var(--gold);
+      color:var(--wine);
       cursor:pointer;
       font-size:1.45rem;
       margin-bottom:14px;
@@ -334,7 +335,7 @@
 
     .play-button:hover{
       transform:scale(1.05);
-      background:var(--wine);
+      background:var(--gold);
     }
 
     iframe{
@@ -346,7 +347,7 @@
     footer{
       padding:0 0 28px;
       text-align:center;
-      color:#7d6260;
+      color:rgba(255,240,223,.56);
       font-size:.92rem;
     }
 
