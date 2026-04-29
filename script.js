@@ -37,7 +37,7 @@ const timelineItems = [
     title: "el silencio es tan cómodo contigo",
     text: "muchas veces solamente quiero estar en silencio y contigo es muy cómodo hacerlo, no se siente esa extraña incomodidad de querer sacar un tema de conversación, me gusta que no sienta ese sentimiento cuando estoy contigo 🙂‍↔️",
     image: "assets/gelada-3.png",
-    caption: "Cierre visual con otro retrato real."
+    caption: "me gustas sabes?"
   }
 ];
 
