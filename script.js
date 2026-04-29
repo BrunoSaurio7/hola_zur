@@ -19,7 +19,7 @@ const timelineItems = [
     number: "03",
     meta: " ",
     title: "tu musiquita y los valores que me has mostrado 🤓☝️",
-    text: "increible que tengamos un 96% en nuestro blend de spoti, eres la persona con la que más comparto gustos musicales, me gusta mucho que sea así y que seas tu esa persona 🙂‍↔️ Además, me gusta mucho que seas tan sensible y tu pasión por los animales y su bienestar. Por lo que he visto de ti, sé que amas mucho a tus seres queridos y lo demuestras de muchas formas, me gusta que seas así y que hagas piñatas de tesis 🙂‍↔️",
+    text: "increible que tengamos un 96% en nuestro blend de spoti, eres la persona con la que más comparto gustos musicales, me gusta mucho que sea así y que seas tu esa persona 🙂‍↔️ Además, me gusta mucho que seas tan sensible y tu pasión por los animales y su bienestar. Por lo que he visto de ti, sé que amas mucho a tus seres queridos y a todos los seres vivos en general y lo demuestras de muchas formas, me gusta que seas así y que hagas piñatas de tesis 🙂‍↔️",
     image: "assets/golden-3.png",
     caption: "ayayay"
   },
