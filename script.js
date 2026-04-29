@@ -41,9 +41,9 @@ const timelineItems = [
   }
 ];
 
-// Cambia este link por el embed que quieras usar
-// Ejemplo Spotify: https://open.spotify.com/embed/track/ID_DE_CANCION?utm_source=generator
-const songEmbedUrl = "https://open.spotify.com/embed/track/2lTm559tuIvatlT1u0JYG2?utm_source=generator";
+// Spotify: https://open.spotify.com/embed/track/ID_DE_CANCION?utm_source=generator
+// https://open.spotify.com/intl-es/track/2YxPhQ1j59g44BKvGWobUE?si=ada16895a9bd40fe
+const songEmbedUrl = "https://open.spotify.com/embed/track/2YxPhQ1j59g44BKvGWobUE?utm_source=generator";
 
 const timelineContent = document.getElementById("timelineContent");
 
